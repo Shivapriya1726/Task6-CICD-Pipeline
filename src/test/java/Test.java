@@ -25,6 +25,7 @@ public class Test {
 
         // Close the browser
         driver.quit();
+        System.out.println("Test Passed");
     }
 }
 
